@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C260FBA-4929-4561-A020-7FF5914A1A27"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "gameHW/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - ca147f8a0536f873"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; gameHW.ViewController"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - dfb0bd6c761d5b38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; gameHW.ViewController"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - 2f1ddbbf98f57762"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;gameHW.ViewController&gt;"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - 959c75e89d3100e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;gameHW.ViewController&gt;"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - 416e80397f593eab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.__deallocating_deinit"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "EF606547-34A8-4F04-BE87-0470AB9B83AD - 959c75e89d3100e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "gameHW.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;gameHW.ViewController&gt;"
+                  moduleName = "gameHW"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aluanurakhan/Desktop/ios%20dev/gameHW/gameHW/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
